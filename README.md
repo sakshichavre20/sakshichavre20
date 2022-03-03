@@ -38,7 +38,7 @@
 
 <hr/>
 
-<h3 align="center">Languages and tools</h3>
+<!-- <h3 align="center">Languages and tools</h3>
 
 <p align="center">
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347" target="_blank"> 
@@ -91,6 +91,6 @@
 </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>
+</a> -->
 
 </p>
