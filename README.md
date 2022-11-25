@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Mern stack with React, ReactNative, 
 - 👯 I’m looking to collaborate on Mobile App Development
-- 📫 How to reach me: sakshichavre@gmail.com 
+- 📫 How to reach me: chavresakshi@gmail.com 
 
 
 <!-- <p align="center">
