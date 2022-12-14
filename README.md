@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning Mern stack with React, ReactNative, 
+- 🌱 I’m currently learning Mern stack 
 - 👯 I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me: chavresakshi@gmail.com 
 
@@ -17,7 +17,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=sakshichavre20&show_icons=true&theme=synthwave"/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshichavre20&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Vaibhav" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshichavre20&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Sakshi" /></p>
 
 <hr/> 
 
