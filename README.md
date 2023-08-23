@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning Mern stack 
+- 🌱 I’m currently learning Full-stack Development
 - 👯 I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me: chavresakshi@gmail.com 
 
